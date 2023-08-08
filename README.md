@@ -1,3 +1,4 @@
+**BASED OFF: https://github.com/Aylur/dotfiles**
 # Hyprland
 
 ![2023-08-07_01-55-11](https://github.com/Aylur/dotfiles/assets/104676705/aa24d424-9a62-4204-846e-c8e88248a52e)
